@@ -1,0 +1,14 @@
+C:\repository\project\SaveToTxt\bin\Debug\netcoreapp3.1\SaveToTxt.exe
+C:\repository\project\SaveToTxt\bin\Debug\netcoreapp3.1\SaveToTxt.deps.json
+C:\repository\project\SaveToTxt\bin\Debug\netcoreapp3.1\SaveToTxt.runtimeconfig.json
+C:\repository\project\SaveToTxt\bin\Debug\netcoreapp3.1\SaveToTxt.runtimeconfig.dev.json
+C:\repository\project\SaveToTxt\bin\Debug\netcoreapp3.1\SaveToTxt.dll
+C:\repository\project\SaveToTxt\bin\Debug\netcoreapp3.1\SaveToTxt.pdb
+C:\repository\project\SaveToTxt\obj\Debug\netcoreapp3.1\SaveToTxt.csproj.AssemblyReference.cache
+C:\repository\project\SaveToTxt\obj\Debug\netcoreapp3.1\SaveToTxt.GeneratedMSBuildEditorConfig.editorconfig
+C:\repository\project\SaveToTxt\obj\Debug\netcoreapp3.1\SaveToTxt.AssemblyInfoInputs.cache
+C:\repository\project\SaveToTxt\obj\Debug\netcoreapp3.1\SaveToTxt.AssemblyInfo.cs
+C:\repository\project\SaveToTxt\obj\Debug\netcoreapp3.1\SaveToTxt.csproj.CoreCompileInputs.cache
+C:\repository\project\SaveToTxt\obj\Debug\netcoreapp3.1\SaveToTxt.dll
+C:\repository\project\SaveToTxt\obj\Debug\netcoreapp3.1\SaveToTxt.pdb
+C:\repository\project\SaveToTxt\obj\Debug\netcoreapp3.1\SaveToTxt.genruntimeconfig.cache

@@ -1,0 +1,17 @@
+C:\repository\project\binary\bin\Debug\netcoreapp3.1\binary.exe
+C:\repository\project\binary\bin\Debug\netcoreapp3.1\binary.deps.json
+C:\repository\project\binary\bin\Debug\netcoreapp3.1\binary.runtimeconfig.json
+C:\repository\project\binary\bin\Debug\netcoreapp3.1\binary.runtimeconfig.dev.json
+C:\repository\project\binary\bin\Debug\netcoreapp3.1\binary.dll
+C:\repository\project\binary\bin\Debug\netcoreapp3.1\binary.pdb
+C:\repository\project\binary\bin\Debug\netcoreapp3.1\BinaryFormatter.dll
+C:\repository\project\binary\obj\Debug\netcoreapp3.1\binary.csproj.AssemblyReference.cache
+C:\repository\project\binary\obj\Debug\netcoreapp3.1\binary.GeneratedMSBuildEditorConfig.editorconfig
+C:\repository\project\binary\obj\Debug\netcoreapp3.1\binary.AssemblyInfoInputs.cache
+C:\repository\project\binary\obj\Debug\netcoreapp3.1\binary.AssemblyInfo.cs
+C:\repository\project\binary\obj\Debug\netcoreapp3.1\binary.csproj.CoreCompileInputs.cache
+C:\repository\project\binary\obj\Debug\netcoreapp3.1\binary.csproj.CopyComplete
+C:\repository\project\binary\obj\Debug\netcoreapp3.1\binary.dll
+C:\repository\project\binary\obj\Debug\netcoreapp3.1\binary.pdb
+C:\repository\project\binary\obj\Debug\netcoreapp3.1\binary.genruntimeconfig.cache
+C:\repository\project\binary\bin\Debug\netcoreapp3.1\BinarySerializer.dll
